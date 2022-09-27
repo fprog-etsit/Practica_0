@@ -62,9 +62,6 @@ En este punto, ya deberíamos poder ver la clase **C1.java** en nuestro espacio 
 
 ## Entrega de la práctica
 
-La práctica se estar entregada en Moodle.
-\\
-
 Cuando haya completado todas las clases pedidas y esté seguro de que funcionan correctamente, es decir, ha pasado con éxito las pruebas que se proporcionan en el proyecto, puede obtener una indicación aproximada de su nota en la práctica mediante unas pruebas automáticas parecidas a las que llevarán a cabo los profesores. Este proyecto solo incluye una prueba para evaluar la entrega, que chequea si el método prueba() devuelve 4. Si funciona la nota es 10, sino 0. Pero en cualquier caso se puede subir la entrega (si no se meten errores de compilación). Esta es una mera indicación, sin valor académico; la nota real será la que obtenga tras subir su práctica a Moodle en el período de entrega, los profesores corrijan todas las prácticas y revisen que no hay copias de código, un tiempo después de la fecha de entrega de la práctica.
 
 Para obtener la nota aproximada debe seguir estos pasos:

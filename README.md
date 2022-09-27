@@ -57,7 +57,7 @@ Debe seguir los siguientes pasos:
 - Dentro del proyecto, en la carpeta _src_, encontrará un paquete llamado **es.upm.dit.fprg22.p0**, siguiendo el convenio más extendido de nomenclatura de paquetes: Práctica 0 (**p0**) de la asignatura FPRG Curso 2022-2023 (**fprg22**) del Departamento de Ingeniería de Sistemas Telemáticos (**dit**) de la Universidad Politécnica de Madrid (**upm**) de España (**es**).
 - También encontrará la clase **C1.java** de Moodle.
 
-En este punto, ya deberíamos poder ver la clase **C1.java** en nuestro espacio de trabajo y, si la abrimos, podremos ver su código. Es un proyecto Eclipse con una clase C1 y un método int prueba(). En esta práctica, *no debe modificar ningún archivo del proyecto*.
+En este punto, ya deberíamos poder ver la clase **C1.java** en nuestro espacio de trabajo y, si la abrimos, podremos ver su código. Es un proyecto Eclipse con una clase C1 y un método int prueba(). En esta práctica, **no debe modificar ningún archivo del proyecto**.
 
 
 ## Entrega de la práctica

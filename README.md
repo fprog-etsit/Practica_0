@@ -15,9 +15,6 @@
 -   [Temas relacionados con la práctica](#temas-relacionados-con-la-práctica)
 -   [Actividades de la práctica](#actividades-de-la-práctica)
     -   [Creación del proyecto](#creación-del-proyecto)
-    -   [Creación de la clase Paciente.java](#creación-de-la-clase-paciente.java)
-    -   [Extensión de la clase PruebaPaciente.java](#extensión-de-la-clase-pruebapaciente.java)
--   [Evaluación](#evaluación)
 -   [Entrega de la práctica](#entrega-de-la-práctica)
 
 

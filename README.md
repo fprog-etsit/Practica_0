@@ -15,9 +15,6 @@
 -   [Temas relacionados con la práctica](#temas-relacionados-con-la-práctica)
 -   [Actividades de la práctica](#actividades-de-la-práctica)
     -   [Creación del proyecto](#creación-del-proyecto)
-    -   [Creación de la clase Paciente.java](#creación-de-la-clase-paciente.java)
-    -   [Extensión de la clase PruebaPaciente.java](#extensión-de-la-clase-pruebapaciente.java)
--   [Evaluación](#evaluación)
 -   [Entrega de la práctica](#entrega-de-la-práctica)
 
 
@@ -92,7 +89,7 @@ Cuando esté convencido de que puede subir su práctica (por supuesto, antes de 
 
 ## IMPORTANTE
 
-Es importante subir el fichero fprg-practica2-2022.zip tal cual lo construye y lo entrega eclipse desde el script de entrega Practica0Entrega.launch. Es IMPORTANTE NO hacer lo siguiente:
+Es importante subir el fichero fprg-practica0-2022.zip tal cual lo construye y lo entrega eclipse desde el script de entrega Practica0Entrega.launch. Es IMPORTANTE NO hacer lo siguiente:
 
 - Cambiar el nombre al fichero
 - Subir el export de eclipse del proyecto
